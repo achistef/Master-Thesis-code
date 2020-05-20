@@ -11,4 +11,4 @@ The  input data can be found here:
 https://www.dropbox.com/s/w6rnk3mx4zqezx8/master%20thesis%20data.zip?dl=0
 
 This project is licenced under the MIT licence.
-For any questions regarding of this repository, feel free to contact me at - achilles 'at' outlook.com.gr
+For any questions regarding of this repository, feel free to contact me via email.
